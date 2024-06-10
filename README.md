@@ -1,5 +1,4 @@
 # tattoo_tailwind_responsive
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![1-11 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/9a3d0fbf-0b49-4473-9d22-f87d95733bd3)
 ![2 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/17b2f7da-88f9-4e23-8dc0-b22317468320)
@@ -14,6 +13,8 @@
 ![10tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/4bb6ea96-9cb4-4cc9-aec6-5145937d61f0)
 ![10 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/60c5c472-e7da-4abf-9cb1-d7820301e745)
 ![15 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/403c55ac-fafd-4691-b9c4-4aaa3a8549d4)
+
+**You can see information about my project**
 
 - [Demo Project](https://zohrefaraji.github.io/tattoo_tailwind_responsive/)
 
