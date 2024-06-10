@@ -9,7 +9,6 @@
 ![7 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/cc3ba0ac-7ae1-4cdc-b8d9-735007b7dad5)
 ![8 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/4d583800-5d64-43da-a5ad-2abb63a39612)
 ![9 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/dc346299-e247-491f-b470-dbd12ab03d33)
-![10tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/7d11b8c1-cda9-4e41-971a-bb81576ec540)
 ![10tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/4bb6ea96-9cb4-4cc9-aec6-5145937d61f0)
 ![10 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/60c5c472-e7da-4abf-9cb1-d7820301e745)
 ![15 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/403c55ac-fafd-4691-b9c4-4aaa3a8549d4)
