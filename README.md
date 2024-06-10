@@ -14,7 +14,6 @@
 ![15 tatoo](https://github.com/zohreFaraji/tattoo_tailwind_responsive/assets/165832749/403c55ac-fafd-4691-b9c4-4aaa3a8549d4)
 
 **You can see information about my project**
-
 - [Demo Project](https://zohrefaraji.github.io/tattoo_tailwind_responsive/)
 
 - Developed by zohre faraji
